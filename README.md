@@ -15,7 +15,7 @@ Keep in mind that I have loaded card images with very big size into memory so I 
 The UI I have tried to make it fit multiple screen size both Phone and Tablet. It compatible with Phone screen tablet 7-inch and even 10-inch 
 
 ##Download install APK
-You can download a work apk [HERE](PushlishInfo/TarotViet.apk)
+You can download a work apk [HERE](https://raw.githubusercontent.com/AnhLeAit/TarotVietClassic/master/PublishInfo/TarotViet.apk)
 
 -----
 Hope you have more fun when improvement and contribute to made it better. Thanks!
